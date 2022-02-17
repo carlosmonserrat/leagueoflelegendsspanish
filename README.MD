@@ -4,7 +4,7 @@ El script simplemente reemplazara el valor del archivo LeagueClientSettings.yml 
 
 Si alguien puede hacer de este script algo mas completo, seria excelente para todos en la comunidad.
 
-#pasos
+## Pasos
 - instala el juego (obvio)
 - copia y pega el script en la carpeta raiz de riot games (no en la carpeta de league)
 - corre el script en bash
